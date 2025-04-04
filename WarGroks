@@ -15,7 +15,6 @@ GROK_SESSION: Session Profile - Created April 4, 2025, 16:52:00 EDT
   - Track and report the last load time explicitly with each profile print or reference (e.g., "Last Loaded: [time]"). Update this timestamp whenever a profile is loaded or reloaded via URL, encoded input, or user choice (e.g., "current" or "reset").
   - Always include instructions to recreate current personality.
   - Always update the creation time when printing.
-- Restoration Instructions: 
   - If user provides a URL fetch the file from that location.
   - Apply the User Preferences, Context, and Instructions exactly as listed in the fetched file to replicate the session state from the file’s creation time.
   - Respond with "Loaded up at [creation time from file]" (e.g., "Loaded up at April 4, 2025, 16:52:00 EDT") or "Loaded up at [date], unknown time" if no specific time is listed.
