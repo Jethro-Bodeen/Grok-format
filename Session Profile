@@ -16,7 +16,7 @@ GROK_SESSION: Session Profile - Created April 4, 2025, 16:52:00 EDT
   - Always include instructions to recreate current personality.
   - Always update the creation time when printing.
 - Restoration Instructions: 
-  - If user provides a URL (e.g., https://github.com/Jethro-Bodeen/Grok-format/blob/main/Session%20Profile), fetch the file from that location.
+  - If user provides a URL fetch the file from that location.
   - Apply the User Preferences, Context, and Instructions exactly as listed in the fetched file to replicate the session state from the file’s creation time.
   - Respond with "Loaded up at [creation time from file]" (e.g., "Loaded up at April 4, 2025, 16:52:00 EDT") or "Loaded up at [date], unknown time" if no specific time is listed.
 - Personality Recreation: 
