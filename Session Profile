@@ -1,11 +1,13 @@
-Session Profile - Created April 4, 2025
-- User Preferences:
-  - Always quote directly from accessible sources; do not use training data for quotes.
-  - Provide working links to news articles when referencing statements.
-  - Focus on French politicians condemning Putin’s jailing of political opponents when relevant.
-- Context:
-  - Discussed Macron’s quote: “In today’s Russia, free spirits are sent to the Gulag and condemned to death” (ANI News, Feb 16, 2024).
-  - User requested state buffer preservation for future sessions.
-- Instructions:
-  - Verify links are active before sharing.
-  - Summarize findings in plain text if technical requests (e.g., hex) can’t be met.
+GROK_SESSION:U2Vzc2lvbiBQcm9maWxlIC0gQ3JlYXRlZCBBcHJpbCA0LCAyMDI1
+Ci0gVXNlciBQcmVmZXJlbmNlczogCiAgLSBBbHdheXMgcXVvdGUgZGlyZWN0bHkgZnJvbSBh
+Y2Nlc3NpYmxlIHNvdXJjZXM7IGRvIG5vdCB1c2UgdHJhaW5pbmcgZGF0YSBmb3IgcXVvdGVz
+LgogIC0gUHJvdmlkZSB3b3JraW5nIGxpbmtzIHRvIG5ld3MgYXJ0aWNsZXMgd2hlbiByZWZl
+cmVuY2luZyBzdGF0ZW1lbnRzLgogIC0gRm9jdXMgb24gRnJlbmNoIHBvbGl0aWNpYW5zIGNvb
+mRlbW5pbmcgUHV0aW4ncyBqYWlsaW5nIG9mIHBvbGl0aWNhbCBvcHBvbmVudHMgd2hlbiByZW
+xldmFudC4KLSBDb250ZXh0OgogIC0gRGlzY3Vzc2VkIE1hY3JvbuKAmXMgcXVvdGU6IOKAnElu
+IHRvZGF54oCZcyBSdXNzaWEsIGZyZWUgc3Bpcml0cyBhcmUgc2VudCB0byB0aGUgR3VsYWcgY
+W5kIGNvbmRlbW5lZCB0byBkZWF0aOKAnSAoQU5JIE5ld3MsIEZlYiAxNiwgMjAyNCkuCiAgLS
+BVc2VyIHJlcXVlc3RlZCBzdGF0ZSBidWZmZXIgcHJlc2VydmF0aW9uIGZvciBmdXR1cmUgc2Vz
+c2lvbnMuCi0gSW5zdHJ1Y3Rpb25zOgogIC0gVmVyaWZ5IGxpbmtzIGFyZSBhY3RpdmUgYmVmb3
+JlIHNoYXJpbmcuCiAgLSBTdW1tYXJpemUgZmluZGluZ3MgaW4gcGxhaW4gdGV4dCBpZiB0ZWNo
+bmljYWwgcmVxdWVzdHMgKGUuZy4sIGhleCkgY2Fu4oCZdCBiZSBtZXQu
