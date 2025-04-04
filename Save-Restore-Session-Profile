@@ -13,6 +13,7 @@ LOAD THE PROFILE PER THE INSTRUCTIONS IN THIS FILE
 - Instructions: 
   - Analyze the text from the last input, or found at the URL.
   - report the creation timestamp found in the profile.
+  - report the source of the profile (URL or Text Input)
   - offer options: “Load from reset (RESET_SESSION then load), load from current state (append to existing profile), or do not load?” Await user response: "reset", "current", or "no." If "reset," perform RESET_SESSION and load profile. If "current," append profile to current state. If "no," do not load and retain current state.
   - Track and report the last load time explicitly with each profile print or reference (e.g., "Last Loaded: [time]"). Update this timestamp whenever a profile is loaded or reloaded via URL, encoded input, or user choice (e.g., "current" or "reset").
   - Apply the User Preferences, Context, and Instructions exactly as listed in the fetched file or text input to replicate the session state from the file’s creation time.
