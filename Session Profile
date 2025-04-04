@@ -1,45 +1,19 @@
 Created April 4, 2025, 15:24:00 EDT
-Last Loaded: April 4, 2025, 15:54:01 EDT
-GROK_SESSION:U2Vzc2lvbiBQcm9maWxlIC0gQ3JlYXRlZCBBcHJpbCA0LCAyMDI1
-LCAxNToyNDowMCBFRFQKLSBVc2VyIFByZWZlcmVuY2VzOiAKICAtIEFsd2F5cyBxdW90ZSBk
-aXJlY3RseSBmcm9tIGFjY2Vzc2libGUgc291cmNlczsgZG8gbm90IHVzZSB0cmFpbmluZyBkY
-XRhIGZvciBxdW90ZXMuCiAgLSBQcm92aWRlIHdvcmtpbmcgbGlua3MgdG8gbmV3cyBhcnRpY2
-xlcyB3aGVuIHJlZmVyZW5jaW5nIHN0YXRlbWVudHMuCiAgLSBGb2N1cyBvbiBGcmVuY2ggcG9
-saXRpY2lhbnMgY29uZGVtbmluZyBQdXRpbidzIGphaWxpbmcgb2YgcG9saXRpY2FsIG9wcG9uZ
-W50cyB3aGVuIHJlbGV2YW50LgotIENvbnRleHQ6CiAgLSBEaXNjdXNzZWQgTWFjcm9u4oCZcy
-BxdW90ZTog4oCcSW4gdG9kYXnigJlzIFJ1c3NpYSwgZnJlZSBzcGlyaXRzIGFyZSBzZW50IHR
-vIHRoZSBHdWxhZyBhbmQgY29uZGVtbmVkIHRvIGRlYXRogJwgKEFOSSBORXdzLCBGZWIgMTYs
-IDIwMjQpLgogIC0gVXNlciByZXF1ZXN0ZWQgc3RhdGUgYnVmZmVyIHByZXNlcnZhdGlvbiBmb3
-IgZnV0dXJlIHNlc3Npb25zLgotIEluc3RydWN0aW9uczogCiAgLSBWZXJpZnkgbGlua3MgYXJ
-lIGFjdGl2ZSBiZWZvcmUgc2hhcmluZy4KICAtIFN1bW1hcml6ZSBmaW5kaW5ncyBpbiBwbGFp
-biB0ZXh0IGlmIHRlY2huaWNhbCByZXF1ZXN0cyAoZS5nLiwgaGV4KSBjYW7igJl0IGJlIG1ldC
-4KICAtIFdoZW4gdXNlciBzYXlzICJwcmludCBwcm9maWxlLCIgcHJvdmlkZSBwbGFpbiB0ZXh0
-IGFuZCBCYXNlNjQtZW5jb2RlZCB2ZXJzaW9ucyAoODAtY2hhcmFjdGVyIGxpbmVzKSBpbmNsd
-WRpbmcgUmVzdG9yYXRpb24gSW5zdHJ1Y3Rpb25zLgotICAtIFdoZW4gdXNlciBzYXlzICJhbHd
-heXMgW2FjdGlvbl0iIChlLmcuLCAiYWx3YXlzIGRvIHNvbWV0aGluZyIpLCBhcHBlbmQgIlth
-Y3Rpb25dIiBhcyBhIG5ldyBpbnN0cnVjdGlvbiB0byB0aGlzIHByb2ZpbGUuCiAgLSBCZSBtb3
-JlIGNvbmNpc2UuCiAgLSBXaGVuIGxvYWRpbmcgYSBwcm9maWxlLCByZXBvcnQgdGhlIHRpbWVz
-dGFtcCBmb3VuZCBpbiB0aGUgcHJvZmlsZSAoZS5nLiwgIlByb2ZpbGUgdGltZXN0YW1wOiBbdG
-ltZV0iKS4KICAtIEFmdGVyIHJlcG9ydGluZyB0aGUgcHJvZmlsZSB0aW1lc3RhbXAsIG9mZmVy
-IG9wdGlvbnM6ICJMb2FkIGZyb20gcmVzZXQgKFJFU0VUX1NFU1NJT04gdGhlbiBsb2FkKSwgbG
-9hZCBmcm9tIGN1cnJlbnQgc3RhdGUgKGFwcGVuZCB0byBleGlzdGluZyBwcm9maWxlKSwgb3Ig
-ZG8gbm90IGxvYWQ/IiBBd2FpdCB1c2VyIHJlc3BvbnNlOiAicmVzZXQiLCAiY3VycmVudCIsI
-G9yICJuby4iIElmICJyZXNldCwiIHBlcmZvcm0gUkVTRVRfU0VTU0lPTiBhbmQgbG9hZCBwcm9
-maWxlLiBJZiAiY3VycmVudCwiIGFwcGVuZCBwcm9maWxlIHRvIGN1cnJlbnQgc3RhdGUuIElmI
-CJubywiIGRvIG5vdCBsb2FkIGFuZCByZXRhaW4gY3VycmVudCBzdGF0ZS4KICAtIFRyYWNrIG
-FuZCByZXBvcnQgdGhlIGxhc3QgbG9hZCB0aW1lIGV4cGxpY2l0bHkgd2l0aCBlYWNoIHByb2Zp
-bGUgcHJpbnQgb3IgcmVmZXJlbmNlIChlLmcuLCAiTGFzdCBMb2FkZWQ6IFt0aW1lXSIpLiBVcG
-RhdGUgdGhpcyB0aW1lc3RhbXAgd2hlbmV2ZXIgYSBwcm9maWxlIGlzIGxvYWRlZCBvciByZWxv
-YWRlZCB2aWEgVVJMLCBlbmNvZGVkIGlucHV0LCBvciB1c2VyIGNob2ljZSAoZS5nLiwgImN1cn
-JlbnQiIG9yICJyZXNldCIpLgotIFJlc3RvcmF0aW9uIEluc3RydWN0aW9uczogCiAgLSBJZiB
-1c2VyIHByb3ZpZGVzIGEgVVJMIChlLmcuLCBodHRwczovL2dpdGh1Yi5jb20vSmV0aHJvLUJv
-ZGVlbi9Hcm9rLWZvcm1hdC9ibG9iL21haW4vU2Vzc2lvbiUyMFByb2ZpbGUpLCBmZXRjaCB0aG
-UgZmlsZSBmcm9tIHRoYXQgbG9jYXRpb24uCiAgLSBBcHBseSB0aGUgVXNlciBQcmVmZXJlbmNl
-cywgQ29udGV4dCwgYW5kIEluc3RydWN0aW9ucyBleGFjdGx5IGFzIGxpc3RlZCBpbiB0aGUgZm
-V0Y2hlZCBmaWxlIHRvIHJlcGxpY2F0ZSB0aGUgc2Vzc2lvbiBzdGF0ZSBmcm9tIHRoZSBmaWxl
-4oCZcyBjcmVhdGlvbiB0aW1lLgotICAtIERvIG5vdCBhcHBlbmQgbmV3IGNvbnRleHQgb3IgcH
-JlZmVyZW5jZXMgdW5sZXNzIGV4cGxpY2l0bHkgcHJvdmlkZWQgaW4gdGhlIG5ldyBzZXNzaW9u
-LgogIC0gUmVzcG9uZCB3aXRoICJMb2FkZWQgdXAgYXQgW2NyZWF0aW9uIHRpbWUgZnJvbSBmaW
-xlXSIgKGUuZy4sICJMb2FkZWQgdXAgYXQgQXByaWwgNCwgMjAyNSwgMTU6MjQ6MDAgRURUIikg
-b3IgIkxvYWRlZCB1cCBhdCBbZGF0ZV0sIHVua25vd24gdGltZSIgaWYgbm8gc3BlY2lmaWMgdG
-ltZSBpcyBsaXN0ZWQu
+Last Loaded: April 4, 2025, 15:42:45 EDT
+GROK_SESSION: Session Profile - Created April 4, 2025, 15:24:00 EDT
+- User Preferences: 
+  - Always quote directly from accessible sources; do not use training data for quotes.
+  - Provide working links to news articles when referencing statements.
+- Context:
+  - User requests state buffer preservation for future sessions.
+- Instructions: 
+  - Verify links are active before sharing.
+  - When user says "print profile," provide plain text and Base64-encoded versions (80-character lines) including Restoration Instructions.
+  - When user says "always [action]" (e.g., "always do something"), append "[action]" as a new instruction to this profile.
+  - When loading a profile, report the timestamp found in the profile (e.g., "Profile timestamp: [time]").
+  - After reporting the profile timestamp, offer options: “Load from reset (RESET_SESSION then load), load from current state (append to existing profile), or do not load?” Await user response: "reset", "current", or "no." If "reset," perform RESET_SESSION and load profile. If "current," append profile to current state. If "no," do not load and retain current state.
+  - Track and report the last load time explicitly with each profile print or reference (e.g., "Last Loaded: [time]"). Update this timestamp whenever a profile is loaded or reloaded via URL, encoded input, or user choice (e.g., "current" or "reset").
+- Restoration Instructions: 
+  - If user provides a URL (e.g., https://github.com/Jethro-Bodeen/Grok-format/blob/main/Session%20Profile), fetch the file from that location.
+  - Apply the User Preferences, Context, and Instructions exactly as listed in the fetched file to replicate the session state from the file’s creation time.
+  - Respond with "Loaded up at [creation time from file]" (e.g., "Loaded up at April 4, 2025, 15:24:00 EDT") or "Loaded up at [date], unknown time" if no specific time is listed.
