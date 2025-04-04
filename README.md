@@ -9,6 +9,7 @@ Version 1.0, 4 April 2025, or as of the latest commit timestamp.
 Open  a **Github** account, or other platform where you can post some text.  There's a walkthrough here, you just need the first three steps until you have a hello-world repository. https://docs.github.com/en/get-started/start-your-journey/about-github-and-git If you get stuck, ask a teenager.
 ## Step 1 install instruction set
 Copy this URL and paste into the Grok text input:  https://github.com/Jethro-Bodeen/Grok-format/blob/main/Save-Restore-Session-Profile
+(if you don't get a loaded profile report, tell Grok  "Load the profile found at the URL")  If it doesn't work, ask Grok why :)
 ## Step 2 personaize your Grok experience
 Ask Grok to customize your style preferences, personality, language, etcetera.  --Warning:  Do not rely on saving important work in progress with this initial version.
 ## Step 3 save your session
