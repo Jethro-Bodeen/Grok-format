@@ -1,5 +1,3 @@
-**
-
 # How to Save and Restore Grok sessions
 Version 1.0, 4 April 2025, or as of the latest commit timestamp.
 @author Jethro-Bodeen
