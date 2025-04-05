@@ -22,7 +22,7 @@ To save your session profile
   
 <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Copy%20Button.jpg" width=200>
 
-- Save your profile wherever you choose (Word, OneDrive, Teams, anywhere).  Works best with text only format  (save as name.txt)
+- Paste and save your profile wherever you choose (Word, OneDrive, Teams, anywhere).  Works best with text only format  (save as name.txt)
  
 ## Step 4 RESTORE your session
 - Paste your saved profile into Grok.
