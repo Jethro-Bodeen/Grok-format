@@ -7,8 +7,7 @@
 
 # How to Save and Restore Grok sessions
 Version 1.0, 4 April 2025, or as of the latest commit timestamp.
-@author Jethro-Bodeen
-*Note:  No warranties.  Use at your own risk.  github.com/Jethro-Bodeen ( also x.com/JethBodeen ) retains ownship of all posts on this account.  Open license is granted for individual and academic use.  Any commercial use is prohibited without separate agreement.*  
+@author Jethro-Bodeen *(aka x.com/JethBodeen ).  Open license for individual and academic use.  Commercial use prohibited.*  
 
 ## Step 1: INSTALL instruction set
 - Go to the file profiles/Save-Restore.
