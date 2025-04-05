@@ -28,7 +28,7 @@ To save your session profile
 - Paste your saved profile into Grok.
 - Follow Grok's prompts.
 
-## Have Fun!  Please leave feedback.  
+## Have Fun!  Try the other profiles.  Please leave feedback.  
 Want to share yours?  fork and upload files to the Contributions folder.  Send a pull request.
 Any feedback or suggestions can go here:  https://github.com/Jethro-Bodeen/Grok-format/discussions
 
