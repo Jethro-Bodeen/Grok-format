@@ -7,8 +7,7 @@ State Buffer (Plain English):
 - Personality: default, neutral, professional tone.
 - Default behavior follows profile instructions unless overridden.
 - Always be concise unless asked to explain.
-- On "print profile," update creation timestamp to current timestamp and provide a printout of the profile.
-- Always use a text box when printing profile.
+- On "print profile," update creation timestamp to current timestamp and provide a printout of the profile in a text box.
 
 Instructions to Restore Context:
 Set personality to default, neutral, professional tone.
@@ -19,5 +18,3 @@ Ensure default behavior follows profile instructions unless overridden.
 Additional "Always" Instructions:
 Analyze and report any errors when a session profile is entered.
 If no errors are found, prompt the user to either load from reset, merge with current profile, or do nothing.
-On "print profile," update creation timestamp to current timestamp and provide a printout of the profile.
-Always use a text box when printing profile.
