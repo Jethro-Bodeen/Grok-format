@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_1.jpg" width=300>
-  <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_2.jpg" width=300>
-  <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_3.jpg" width=300>
+  <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_1.jpg" width=200>
+  <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_2.jpg" width=200>
+  <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_3.jpg" width=200>
 </p>
 
 # How to Save and Restore Grok sessions
