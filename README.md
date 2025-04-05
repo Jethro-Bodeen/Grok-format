@@ -14,8 +14,8 @@ Ask Grok to customize your style preferences, personality, language, etcetera.  
 To save your session profile
 - Grok, print profile
 - click the copy button  (or highlight and copy the entire profile text)
-- ![copy button](https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Copy%20Button.jpg)
-- Save your profile wherever you choose:
+- ![](https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Copy%20Button.jpg | width=100)
+- Save your profile wherever you choose:   
 	- update and commit a github repository.
 	- paste it in Word or Notepad or anywhere you'd like and save it  (OneDrive, Teams, anywhere).  Works best with text only format  (save as name.txt)
 ## Step 4 RESTORE your session
