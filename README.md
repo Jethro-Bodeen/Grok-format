@@ -16,7 +16,7 @@ To save your session profile
 - Grok, print profile
 - click the copy button  (or highlight and copy the entire profile text)
   
-<img src="(https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Copy%20Button.jpg)" width=200>
+<img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Copy%20Button.jpg" width=200>
 
 
 - Save your profile wherever you choose:   
