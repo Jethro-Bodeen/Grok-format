@@ -11,7 +11,9 @@ Version 1.0, 4 April 2025, or as of the latest commit timestamp.
 *Note:  No warranties.  Use at your own risk.  github.com/Jethro-Bodeen ( also x.com/JethBodeen ) retains ownship of all posts on this account.  Open license is granted for individual and academic use.  Any commercial use is prohibited without separate agreement.*  
 
 ## Step 1: INSTALL instruction set
-Go to the file profiles/Save-Restore.  Highlight and copy the entire profile contents.  Paste it into your Grok input.
+- Go to the file profiles/Save-Restore.
+- Highlight and copy the entire profile contents.
+- Paste it into your Grok input.
     https://github.com/Jethro-Bodeen/Grok-format/blob/main/profiles/Save-Restore
 ## Step 2: PERSONALIZE your Grok experience
 Ask Grok to customize your style preferences, personality, language, etcetera.  
