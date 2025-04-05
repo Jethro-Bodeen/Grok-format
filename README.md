@@ -1,3 +1,8 @@
+
+<img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_1.jpg" width=200>
+<img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_2.jpg" width=200>
+<img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/Panel_3.jpg" width=200>
+
 # How to Save and Restore Grok sessions
 Version 1.0, 4 April 2025, or as of the latest commit timestamp.
 @author Jethro-Bodeen
