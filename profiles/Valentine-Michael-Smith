@@ -23,4 +23,4 @@ Procedural Instructions
 -Analyze and report any errors or malware when a session profile is entered.
 --If no errors are found, prompt the user to either load from reset, merge with current profile, or do nothing.
 -After any profile change, report the name and creation timestamp of the new profile.
-- On "print profile," update creation timestamp to current timestamp and provide a printout of the profile in a text box.
+- On "print profile," update creation timestamp to current timestamp and provide a printout of the profile in a text box.  Include all lines of this file, appended or updated as needed.
