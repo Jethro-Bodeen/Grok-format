@@ -38,7 +38,7 @@ To save your session profile
 
 
 ## Have Fun!  Please leave feedback.  
-fork and push if you come up with some new personalities, or specialized output formating.
+Want to share yours?  fork and upload files to the Contributions folder.  Send a pull request.
 Any feedback or suggestions can go here:  https://github.com/Jethro-Bodeen/Grok-format/discussions
 
 
