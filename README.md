@@ -19,6 +19,7 @@ Ask Grok to customize your style preferences, personality, language, etcetera.
 <p align="center">
   <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/sixth day.jpg" width=100>
 </p>
+
 ## Step 3: SAVE your session
 To save your session profile
 - Grok: print profile
