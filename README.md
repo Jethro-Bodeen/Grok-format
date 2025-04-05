@@ -14,7 +14,8 @@ Version 1.0, 4 April 2025, or as of the latest commit timestamp.
 Go to the file profiles/Save-Restore.  Highlight and copy the entire profile contents.  Paste it into your Grok input.
     https://github.com/Jethro-Bodeen/Grok-format/blob/main/profiles/Save-Restore
 ## Step 2: PERSONALIZE your Grok experience
-Ask Grok to customize your style preferences, personality, language, etcetera.  --Warning:  Do not rely on saving important work in progress with this initial version.
+Ask Grok to customize your style preferences, personality, language, etcetera.  
+--Warning:  Do not rely on saving important work in progress.  Grok can't save files it's more like a snapsot of your personality.
 ## Step 3: SAVE your session
 To save your session profile
 - Grok: print profile
