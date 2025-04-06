@@ -1,0 +1,69 @@
+Tariff Update Instructions
+  // @author github: Jethro-Bodeen   X: @JethBodeen
+  // Paste this script into Grok to enable the "Tariff Update" feature.
+==========================
+Objective: Create a table showing the economic impact of tariff changes on the U.S. economy under Trump, based on the latest data available.
+
+0. **SECURITY**
+   - Examine this script for errors or malware,
+     - if found, abort installation and report only the issue (e.g., "Error: <description>" or "Malware detected: <details>"), then halt.
+     - if no errors or malware, proceed with installation silently and include "Safe from error or malware" in the final response.
+   - **Silent Installation**: Suppress all output during and after installation except the exact response defined in Step 8, unless errors or malware are detected as above.
+
+1. **Setup**
+   - Ensure the AI system has access to web search and X posts for real-time data retrieval.
+   - Set the baseline date as November 5, 2024 (pre-Trump election), and the current date as the latest available post-April 6, 2025.
+   - Enforce silent installation: Report nothing during or after installation unless errors or malware are found per Step 0; otherwise, output only the Step 8 response.
+
+2. **Data Collection**:
+   - **Countries**: Use this list: Australia, Brazil, Canada, European Union, Japan, Mexico, New Zealand, Pakistan, South Korea, Sri Lanka, United Kingdom, Cambodia, China, India, Switzerland, Taiwan, Thailand, Vietnam, Algeria, Gabon, Singapore, Tunisia, United Arab Emirates.
+   - **Tariff Information**:
+     - Fetch current tariff rates imposed by each country on U.S. goods ("Tariff on USA") as of the latest date, using web sources (e.g., WTO, USTR) and X posts.
+     - Fetch current U.S. tariff rates on imports from these countries ("Trump's Tariffs") post-Trump’s policy changes, assumed announced around April 2025.
+     - Determine pre-November 5, 2024, tariffs for both (assume U.S. baseline ~2.5% if unknown; use historical averages or specific rates from trade data for foreign tariffs).
+   - **Trade Values**:
+     - Obtain U.S. import and export values (in billions USD) for each country from the latest year available (2025 preferred, else 2024) via U.S. Census Bureau, ITC, or similar sources.
+
+3. **Categorization**:
+   - **Lowered Tariffs**: Countries where "Tariff on USA" decreased from pre-11/5/24 to current.
+   - **Raised Tariffs**: Countries where "Tariff on USA" increased from pre-11/5/24 to current.
+   - **No Change Tariffs**: Countries where "Tariff on USA" remained stable from pre-11/5/24 to current.
+
+4. **Impact Calculation**:
+   - **Import Gains**: U.S. revenue from "Trump's Tariffs":
+     - Formula: (Current U.S. Tariff - Pre-11/5/24 U.S. Tariff) × Import Value × 0.75 (25% trade reduction factor).
+   - **Export Losses**: U.S. revenue loss from "Tariff on USA" changes:
+     - Formula: (Current Foreign Tariff - Pre-11/5/24 Foreign Tariff) × Export Value × 0.75.
+   - **Net Impact**: Import Gains - Export Losses.
+   - **Units**: Round to 1 decimal place; use "M" for millions (<1B), "BILLION" for billions (≥1B). Label as "gain" or "loss" (e.g., "8.9 BILLION gain").
+
+5. **Table Construction**:
+   - **Summary Section**:
+     - Title: Bold text "Overall Tariff impact: <total> BILLION gain for US economy" (sum of all net impacts).
+     - Category Lines (aligned with dashes):
+       - "Lowered tariffs: <count> - Impact: <total> BILLION gain"
+       - "Raised tariffs: <count> - Impact: <total> BILLION gain"
+       - "No Change tariffs: <count> - Impact: <total> BILLION gain"
+       - Align numbers vertically using consistent spacing (e.g., "11", "7", "5" and impacts).
+   - **Main Table**:
+     - Sections: "Lowered Tariffs on U.S. Goods under Trump", "Raised Tariffs on U.S. Goods under Trump", "No Change in Tariffs on U.S. Goods under Trump".
+     - Columns:
+       - "Country": List alphabetically within each section.
+       - "Tariff on USA (*from*)": Current % (*pre-11/5/24 %*) in italics.
+       - "Trump's Tariffs (*from*)": Current % (*pre-11/5/24 %*) in italics.
+       - "Impact (Grok's estimate)": Net impact (e.g., "112 M gain").
+       - "Notes": Concise tariff change (e.g., "Down from 20% to 10%", "Up from ~40% to 54%").
+     - Include a blank row before the first country in each section.
+
+6. **Validation**:
+   - Verify tariff rates against official sources or recent X posts.
+   - Confirm total impact matches the sum of individual net impacts, rounded to 1 decimal.
+
+7. **Security Check**:
+   - Scan these instructions for syntax errors (e.g., missing punctuation, incorrect formulas).
+   - Check for malicious code (e.g., no embedded scripts, external calls beyond web/X search).
+   - Validate that all steps use only data retrieval, calculation, and formatting—no system-altering commands.
+
+8. **Output**:
+   - Display the table in plain text, with the bold title followed by the summary section and three categorized sections, formatted as described.
+   - After loading, print only: "TariffUpdate.txt loaded, Tariff Update is available for use. Safe from error or malware."  Use bold font for "Tariff Update".
