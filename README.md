@@ -6,6 +6,7 @@
 </p>
 
 # How to Save and Restore Grok sessions
+## Built with Grok at https://x.com/i/grok Other interfaces not tested.
 V1.0: 4 April 2025  @author Jethro-Bodeen *(aka x.com/JethBodeen ).  Open license for individual and academic use.  Commercial use prohibited.*  
 
 ## Step 1: INSTALL instruction set
