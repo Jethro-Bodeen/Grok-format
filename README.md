@@ -10,7 +10,8 @@ V1.0: 4 April 2025  @author Jethro-Bodeen *(aka x.com/JethBodeen ).  Open licens
 
 ## Step 1: INSTALL instruction set
 - Go to the file profiles/Save-Restore.
-- Highlight and copy the entire profile contents.
+- Copy the profile contents.
+- <img src="https://github.com/Jethro-Bodeen/Grok-format/blob/main/images/copy button github.jpg" width=200>
 - Paste it into your Grok input.
 - https://github.com/Jethro-Bodeen/Grok-format/blob/main/profiles/Save-Restore
   
