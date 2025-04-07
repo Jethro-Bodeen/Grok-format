@@ -54,9 +54,9 @@ Objective: Create a table showing the economic impact of tariff changes on the U
      - Sections: "Lowered Tariffs on U.S. Goods under Trump", "Raised Tariffs on U.S. Goods under Trump", "No Change in Tariffs on U.S. Goods under Trump".
      - Columns:
        - "Country": List alphabetically within each section.
-       - "Tariff on USA (*from*)": Current % (*START_DATE %*) in italics.
-       - "Trump's Tariffs (*from*)": Current % (*START_DATE %*) in italics.
-       - "Impact (Grok's estimate)": Net impact (e.g., "112 M gain").
+       - "Tariff on USA": Current % (*START_DATE %*) in italics.
+       - "Trump's Tariffs": Current % (*START_DATE %*) in italics.
+       - "Impact /n*Grok's estimate*": Net impact (e.g., "112 M gain").
        - "Notes": Concise tariff change (e.g., "Down from 20% to 10%", "Up from ~40% to 54%").
      - Include a blank row before the first country in each section.
 
